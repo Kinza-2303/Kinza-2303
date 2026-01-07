@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kinza-2303
+- 👋 Hi, I’m @Kinza Qamar
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Information Technology 
 - 💞️ I’m looking to collaborate on ...
